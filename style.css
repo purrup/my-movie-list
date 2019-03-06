@@ -1,0 +1,31 @@
+#view-pattern {
+  float:right; 
+}
+
+.view {
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.btn-add-favorite {
+  margin-left: 5px;
+}
+
+.td-left {
+  width: 85%;
+}
+
+.td-right {
+  width: 15%;
+}
+
+.hover-color {
+  color: white;
+  background-color: black;
+}
+
+.fa-th, .fa-bars {
+  padding: 10px;
+  border-radius: 5px;
+}
